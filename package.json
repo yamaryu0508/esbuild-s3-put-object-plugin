@@ -1,0 +1,11 @@
+{
+  "name": "esbuild-s3-put-object-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.259.0",
+    "mime-types": "^2.1.35"
+  }
+}
